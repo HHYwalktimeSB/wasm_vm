@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "ticks": 3,
+  "tick_rate": 30,
+  "seed": 91,
+  "irqs": [{ "tick": 3, "mask": 8 }],
+  "expect": { "status": 2, "commands": 1 }
+}

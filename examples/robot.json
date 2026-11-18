@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "active_cu_per_second": 30000,
+  "low_power_cu_per_second": 7500,
+  "ram_pages": 2,
+  "protocol": 1,
+  "target": 7,
+  "timeout_ticks": 8,
+  "controller_clock": 0,
+  "controller_data": 1,
+  "peripheral_clock": 0,
+  "peripheral_data": 1,
+  "dma_max_bytes": 16
+}
